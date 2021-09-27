@@ -1,0 +1,5 @@
+This game was created using the TI Cortex-M based TM4C microcontroller. Additional components used:
+  - 4 bit DAC sound output with 15 1.5 kOhm resistors (4 bit input into PE0-PE3)
+  - 2 sliding potentiometers (inputs into pins PE4 and PE5)
+  - 2 buttons: one to shoot and the other to pause the game (inputs into pins PE1 and PE0 respectively)
+  - SSD1306 128 by 64 pixel oLED screen (SCL into PD0 and SDA into PD1)
